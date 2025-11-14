@@ -1,4 +1,4 @@
-#  Insurance Cost Analysis Using SQL
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/288ece9a-4421-4b5c-8521-b8757df90478" />#  Insurance Cost Analysis Using SQL
 
 SQL project to analyze medical insurance charges and find major cost influencing factors
 
@@ -20,19 +20,16 @@ To practice SQL queries used in data analyst interviews
 
 The dataset contains the following columns:
 
-Column Name	Description
-age	Age of the person
-sex	Male / Female
-bmi	Body Mass Index
-children	Number of dependent children
-smoker	Yes / No
-region	Region of residence
-charges	Medical insurance cost
-🛠 Technologies Used
+| Column Name | Description |
+|------------|-------------|
+| **age** | Age of the person |
+| **sex** | Male / Female |
+| **bmi** | Body Mass Index |
+| **children** | Number of dependent children |
+| **smoker** | Yes / No |
+| **region** | Region of residence |
+| **charges** | Medical insurance cost |
 
-MySQL
-
-SQL Queries (Cleaning, Aggregations, Grouping)
 
 # Data Analysis Concepts
 
@@ -111,12 +108,8 @@ Business insights generation
 
 Useful for Data Analyst and Business Analyst interviews.
 
-# 📁 Project Structure
-Insurance-Analysis/
-│── insurance_data.csv
-│── create_table.sql
-│── insert_data.sql
-│── analysis_queries.sql
-│── README.md
-Insurance Cost Analysis Using SQL
+
+
+
+
 
