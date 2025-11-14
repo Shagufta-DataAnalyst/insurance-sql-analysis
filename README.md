@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/288ece9a-4421-4b5c-8521-b8757df90478" />#  Insurance Cost Analysis Using SQL
+#  Insurance Cost Analysis Using SQL
 
 SQL project to analyze medical insurance charges and find major cost influencing factors
 
