@@ -93,7 +93,7 @@ Region does not affect cost strongly, but one region shows slightly higher avera
 
 People with more children sometimes have higher cost, depending on dataset.
 
-🧾 Conclusion
+# 🧾 Conclusion
 
 This project helped in understanding how lifestyle, demographic factors, and habits affect healthcare cost.
 It also demonstrates essential SQL skills:
